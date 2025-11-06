@@ -6,3 +6,42 @@ result
 result-*
 .envrc
 .direnv
+
+# Node.js dependencies
+node_modules/
+
+# Python dependencies and cache
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Build directories
+build/
+dist/
+.build/
+
+# IDE and editor directories
+.vscode/
+.idea/
+*.sublime-*
+
+# OS generated files
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+
+# Log directories
+logs/
+*.log
+
+# output files
+output/
