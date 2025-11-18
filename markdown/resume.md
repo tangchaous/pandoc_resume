@@ -116,6 +116,7 @@
 - **Agentic AI frameworks**: LangChain/LangGraph/LangSmith, LlamaIndex, Anthropic MPC
 - **AI/ML frameworks**: PyTorch, TensorFlow, MxNet
 - **MLOps frameworks**: Ray, MLflow, Kubeflow
-- **Database Systems**: PostgreSQL, Neo4J, Cassandra, MongoDB, Weaviate, Pinecone, ActiveLoop
-- **Cloud Platforms**: AWS (Bedrock, SageMaker), GCP, Azure
-- ***DevOps Tools**: Docker, Kubernetes, Jenkins, Git
+- **Database Systems**: PostgreSQL, Neo4J, Cassandra, MongoDB, Weaviate, Pinecone, ActiveLoop,
+- **Cloud Platforms**: AWS (Bedrock, SageMaker, Titan, Textract, ECS, EKS, Lambda), GCP, Azure
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, Git
+- **Frontend**: React, D3.js, FastAPI, Streamlit, Dash, Flask
