@@ -1,0 +1,68 @@
+# GNN Questionaire
+
+## How experienced are you with graph models?
+
+I have been working on graph models since 2015 officially. In other words, 10 years of experiences with close to 10 products delivered, in various application domains.
+
+## What type of graph models have you worked with?
+
+This question has casted an extremely wide net. 
+
+From the graph theoretic point of view, I have worked on 
+directed/undirected graphs
+Weighted/unweighted graphs
+Simple/multigraphs
+Bipartite graphs
+Tree/Fores types of graphs
+Causal/Bayesian graph models, etc.
+
+From Machine Learning point of view, I have worked on
+GNNs, including GCN and GAT
+Graph Embedding Models
+Knowledge Graphs
+Temporal-spatial graph models, etc.
+
+## Have you built your own model from scratch?
+
+I have always built models from scratch because I am working at the Tech Center of a Federal Funded Research and Development Center (FFRDC). My major efforts are writing research proposals and built proof-of-concepts to solve realistic business challenges. None of these solutions had existing solutions. Or, the existing solutions were not satisfactory. 
+
+## What was the complexity of those models?
+
+There are two types of models are extremely complex
+Temporal-spatial multigraphs. For example, traffics flows of the National Air Space, considering dynamic space partition, traffic conflicts, severe weather disturbances, etc.
+Knowledge graph for conceptual reasoning in legal or financial domains.
+
+## What is the number of nodes and the number of features in the graph you have worked with?
+
+Multi-graph with hundreds nodes and thousands edges. Number of features varying from several to several dozens. For example, the global network traffics between data centers supporting distributed applications is known to be NP-hard. So is the architecture auto-design models.
+
+## Can you describe a GNN project you built from scratch? What problem were you solving, and what architecture choices did you make?
+
+Here is an example. Big organizations, like Microsoft or Department of Defense, have to operate dozens of data centers across the globe. For many reasons, they have high priority distributed applications that are running across several data centers. On the other hand, network communication bandwidth is always limited. To effectively support all types of data traffic among these data centers is known to be a NP-hard optimization challenge on large scale graphs. For the purpose of resilience, the operator shall be able to re-route the traffics on-the-fly without disrupt the operations whenever network disturbance happens. Traditional network optimization will take more than a month to reach a viable re-route solution even on massive HPC clusters. This certainly is not practical.
+
+Exhaustively search the entire solution space (a.k.a., global optimal) is theoretically impossible. After broad search, we picked a sub-optimal solution within a controlled sub-space. Such a space is identified using traditional graph algorithms. GNN is adopted to encode this sub-space as well as traffic patterns. Afterwards, multi-agent reinforcement learning is adopted to find optimal policies between each pair of data centers. We have further extend the solutions to make sure high priority (distribution) applications will always supported and can be dynamically relocated on-demand. 
+
+
+## Have you applied GNNs to reasoning over complex relational or hierarchical data (like molecules, infrastructure, or 3D models)?
+
+Yes. The project of architecture auto design is a typical example. Out of thousands of candidate systems of various functions and varying specs, using RL and GNN, the AI solutions will put together all the necessary components as an extremely complex lego project. All these components not only have to be compatible with each other in capacities and requirements. The overall design has to be constrained and/or satisfy multiple multiple objectives. For example, function, cost, and construction schedule.
+  
+## Have you worked with 3D reconstruction, meshes, or spatial reasoning pipelines? How did you structure the data for your models?
+
+Yes. National Air Space is partitioned hierarchically into centers, tracons, and sectors horizontally, which are further partitioned into multiple layers vertically. The partitions are dynamically changing on-demand.
+
+## In this project, there are three major data objects. Traffic flow (with volume), possible routes (with available capacity), and hierarchical space partition (for control responsibilities and hand-offs). At the interface of space partitions, routes has to be continued and there capacities have to be compatible. In addition, there are safety constraints have to be met. 
+
+In a nutshell, this can be modeled as network traffic allocation problem with dynamically configured network. Meanwhile, space partitions poses massive amounts of constraints on any chosen network configurations.
+  
+## Have you applied reinforcement learning in combination with GNNs or spatial reasoning systems? How did you design the environment and reward?
+
+I have used reinforcement learning in combination with GNN in architecture auto-design. I have also applied reinforcement learning in network traffic planning. However, not in spatial reasoning systems.
+
+## If you were asked to reason about placing walls or components in a 3D model, how would you encode the rules or constraints in a GNN.
+
+ Equivariant GNNs (EGNNs) seems to be designed for this kind of applications. 
+
+In addition,
+If number of constraints are small, constraint-aware loss functions can be straightforward.
+If number of constraints are massive, Projected Gradient Descent (PGD) would be reasonable.

@@ -13,6 +13,7 @@
 - End-to-end product development, leveraging Systems Thinking, Life-Cycle Management, and operational experiences, of impactful AI/ML solutions to address business challenges in diverse application domains.
 - Business development; innovative researches; product development; operational management.
 - Integrating AI/ML/DS with existing workflow to enhance productivity and service qualities, leveraging best practices in MLOps.
+- Data and model governance in Healthcare and privacy-sensitive domains.
 
 
 # Artificial Intelligence Expertise
@@ -23,51 +24,56 @@
 - **AI/ML frameworks**: PyTorch, TensorFlow, MxNet, ONNX, Ray, MLflow.
 - **LLM technologies**: Retrieval Augmented Generation (RAG), Agentic AI , Model Context Protocol (MCP).
 
+{{<pagebreak>}}
 
 # Working Experience
 
-## The MITRE Corporation (Sep 2012 - Present)
+## The MITRE Corporation (Sep 2012 - Jul 2025)
 
 - **Job Title**: Principle Artificial Intelligence Engineer
 - **Agencies served**: Defense Information Systems Agency (DISA), Defense Health Agency (DHA), Federal Aviation Administration (FAA), Internal Revenue Service (IRS), Department of Homeland Security (DHS)
 
-### Large Language Model (LLM) Applications
+### HighLights of Contributions
 
-- (Tech Lead) Question answering system leveraging Knowledge Graph (KG) indexed Retrieval Augmented Generation (RAG)
-- (Project Lead) Architecture auto-generation from large collection of design documents leveraging Knowledge Graphs
-- (Tech Lead) Aviation Safety Regulation De-conflicting using Large Language Models and Knowledge Graphs
-- (Project Lead) Recommendation system for aviation safety incident analysis
+- As the Chief Engineer, starting from scratch, delivered the MERIT (Medical Evaluation Readiness Information Toolset) project, which is the first AI/ML-driven clinical decision support system for troop readiness and service member disability prediction,leveraging Electronic Health Records (EHRs).
+
+
+### Large Language Model (LLM) Applications (LLM, RAG/GraphRAG, Generative, Agentic, MCP)
+
+- Question answering system leveraging Knowledge Graph (KG) indexed Retrieval Augmented Generation (RAG) [role: Tech Lead]
+- Recommendation system for aviation safety incident analysis [role: Project Lead]
+- Using LLMs and GraphRAG for regularory compliance in aviation safety [role: Tech Lead]
+- Architecture auto-generation from large collection of design documents leveraging Knowledge Graphs [role: Project Lead]
+- Aviation Safety Regulation De-conflicting using Large Language Models and Knowledge Graphs [role: Tech Lead]
+
+### Portfolio Optimization Applications
+
+- Large organization budget planning and contract evaluation system using Generative AI [role: Product Owner]
 
 
 ### Time-Series Analysis and Predictive Analytics
 
-- (Project Lead) Multi-modal multi-variate time-series anomaly detection
-- (Chief Engineer) Disability outcomes prediction (Medical Evaluation Readiness Information Toolset)
-- (Project Lead) Reduce uncertainty in weather forecasting using data assimilation 
-- (Project Lead) Aviation accidents/incidents root cause mining using temporal-spacial transformers 
-
+- Multi-modal multi-variate time-series anomaly detection [role: Project Lead]
+- Disability outcomes prediction (Medical Evaluation Readiness Information Toolset) [role: Chief Engineer]
+- Reduce uncertainty in weather forecasting using data assimilation [role: Project Lead]
+- Aviation accidents/incidents root cause mining using temporal-spacial transformers [role: Project Lead]
 
 ### Graph-Based Machine Learning Applications
 
-- Global scale data center network traffic engineering (Tech Lead)
-- National Air Space traffic flow network modeling & spatial reasoning (Tech Lead)
-- Tax fraud detection in large corporation networks (Project Lead)
-- (Project Lead) Complex systems modernization: architecture auto-design and modernization roadmap autodiscovery
-
+- Tax fraud detection in large corporation networks [role: Project Lead]
+- Global scale data center network traffic engineering [role: Tech Lead]
+- National Air Space traffic flow network modeling & spatial reasoning [role: Tech Lead]
+- Complex systems modernization: architecture auto-design and modernization roadmap autodiscovery [role: Project Lead]
 
 ### Computer Vision Applications
-- (Tech Lead) Convective weather impacts on pilot behaviors using satellite images
 
-
-### Portfolio Optimization Applications
-
-- (Product Owner) Large organization budget planning and contract evaluation system using Generative AI
+- Convective weather impacts on pilot behaviors using satellite images [role: Tech Lead]
 
 
 ### Other Efforts
 
-- (Tech Lead) Airport ground traffic management using Reinforcement Learning
-- DARPA AI/ML seedling challenge design for critical mineral assessment
+- Airport ground traffic management using Reinforcement Learning [role: Tech Lead]
+- DARPA AI/ML seedling challenge design for critical mineral assessment [role: Contributor]
 
 
 ## Metavi, LLC (Feb 2011 - Aug 2012)
@@ -76,11 +82,12 @@
 - Collecting, processing, modeling, and animating of aviation traffic control data along with weather information.
 
 
-## George mason University (2005-2010)
+## George Mason University (2005-2010)
 
 - **Job Title**: Research Scientist
 - High fidelity severe weather prediction, meteorological modeling, and development/evaluation/validation of atmospheric transport and dispersion models.
 
+{{<pagebreak>}}
 
 # Education
 
@@ -105,8 +112,10 @@
 
 # Skills
 
-- **Programming languages**: Python, Spark, JavaScript, Java, R, Matlab
+- **Programming languages**: Python, Spark, TypeScript, Java, R, Matlab
+- **Agentic AI frameworks**: LangChain/LangGraph/LangSmith, LlamaIndex, Anthropic MPC
 - **AI/ML frameworks**: PyTorch, TensorFlow, MxNet
 - **MLOps frameworks**: Ray, MLflow, Kubeflow
 - **Database Systems**: PostgreSQL, Neo4J, Cassandra, MongoDB, Weaviate, Pinecone, ActiveLoop
-- **Cloud Platforms**: AWS, GCP, Azure
+- **Cloud Platforms**: AWS (Bedrock, SageMaker), GCP, Azure
+- ***DevOps Tools**: Docker, Kubernetes, Jenkins, Git
