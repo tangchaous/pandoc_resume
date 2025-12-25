@@ -44,6 +44,4 @@ logs/
 *.log
 
 # output files
-output/*.html
-markdown/resme.html
-markdown/resume.html
+markdown/*.html

@@ -30,19 +30,19 @@
 
 ## The MITRE Corporation (Sep 2012 - Jul 2025)
 
-- **Job Title**: Principle Artificial Intelligence Engineer
+- **Job Title**: Principal Artificial Intelligence Engineer
 - **Agencies served**: Defense Information Systems Agency (DISA), Defense Health Agency (DHA), Federal Aviation Administration (FAA), Internal Revenue Service (IRS), Department of Homeland Security (DHS)
 
-### HighLights of Contributions
+### Highlights of Contributions
 
-- As the Chief Engineer, starting from scratch, delivered the MERIT (Medical Evaluation Readiness Information Toolset) project, which is the first AI/ML-driven clinical decision support system for troop readiness and service member disability prediction,leveraging Electronic Health Records (EHRs).
-
+- As the Chief Engineer, starting from scratch, delivered the MERIT (Medical Evaluation Readiness Information Toolset) project, which is the first AI/ML-driven enterprise-level clinical decision support system for troop readiness and service member disability prediction, leveraging Electronic Health Records (EHRs).
+- Proposed and led the development of six innovative products across various application domains.
 
 ### Large Language Model (LLM) Applications (LLM, RAG/GraphRAG, Generative, Agentic, MCP)
 
 - Question answering system leveraging Knowledge Graph (KG) indexed Retrieval Augmented Generation (RAG) [role: Tech Lead]
 - Recommendation system for aviation safety incident analysis [role: Project Lead]
-- Using LLMs and GraphRAG for regularory compliance in aviation safety [role: Tech Lead]
+- Using LLMs and GraphRAG for regulatory compliance in aviation safety [role: Tech Lead]
 - Architecture auto-generation from large collection of design documents leveraging Knowledge Graphs [role: Project Lead]
 - Aviation Safety Regulation De-conflicting using Large Language Models and Knowledge Graphs [role: Tech Lead]
 
@@ -99,15 +99,15 @@
 # Publications
 
 1. (2024) On the Exploration of Temporal Fusion Transformers for Anomaly Detection with Multivariate Aviation Time-series Data. DASC 2024.
-1. (2022) Adaptable Graph Network for Traffic Analysis Applications. DASC 2022.
-2. (2021) Medical Evaluation Readiness Information Toolset (MERIT): Developing a data-driven support tool to augment complex clinical decisions. 
-3. (2019) Deep Reinforcement Learning Applied to Airport Surface Movement Planning. DASC 2019.
-4. (2016) Use Data Assimilation to Reduce Uncertainties in Ensemble Forecasting for Strategic Traffic Flow Management. 18th Conference on Aviation, range, and Aerospace Meteorology.
-5. (2014) Agile Simulation Based Analysis of Acquisition. Summer Computer Simulation conference 2014.
-6. (2009) Surface Transport in Continuum Mechanics. Mathematics and Mechanics of Solids, 14 (587-598).
-7. (2009) Results Validation of Joint Effects Model Using Seven Field Data Sets. 13th Annual George Mason University Conference on Atmospheric Transport and Dispersion Modeling, Fairfax, Virginia.
-8. (2007) Electrodynamics and Thermodynamics of Material Bodies. Journal of Elasticity, 88 (255-297).
-9. (1997) Nonliear Analysis of Dynamics Stability for Thin-Walled Beams with Open Section in Large Overall Motion. Chinese Journal of Colored Metals 7.
+2. (2022) Adaptable Graph Network for Traffic Analysis Applications. DASC 2022.
+3. (2021) Medical Evaluation Readiness Information Toolset (MERIT): Developing a data-driven support tool to augment complex clinical decisions. 
+4. (2019) Deep Reinforcement Learning Applied to Airport Surface Movement Planning. DASC 2019.
+5. (2016) Use Data Assimilation to Reduce Uncertainties in Ensemble Forecasting for Strategic Traffic Flow Management. 18th Conference on Aviation, range, and Aerospace Meteorology.
+6. (2014) Agile Simulation Based Analysis of Acquisition. Summer Computer Simulation conference 2014.
+7. (2009) Surface Transport in Continuum Mechanics. Mathematics and Mechanics of Solids, 14 (587-598).
+8. (2009) Results Validation of Joint Effects Model Using Seven Field Data Sets. 13th Annual George Mason University Conference on Atmospheric Transport and Dispersion Modeling, Fairfax, Virginia.
+9. (2007) Electrodynamics and Thermodynamics of Material Bodies. Journal of Elasticity, 88 (255-297).
+10. (1997) Nonliear Analysis of Dynamics Stability for Thin-Walled Beams with Open Section in Large Overall Motion. Chinese Journal of Colored Metals 7.
 
 
 # Skills
