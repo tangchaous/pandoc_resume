@@ -1,29 +1,27 @@
+# Huang Tang
+Email: huangtang@gmail.com
+Phone: (571) 604-9188
+LinkedIn: https://www.linkedin.com/in/huang-tang-021ba27a
+GitHub: https://github.com/tangchaous
+
+---
+
+Date: Dec 26, 2025
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the **Lead GenAI Agent Developer** role at **Fannie Mae**. With over twelve years of experience building and leading **secure, scalable AI and GenAI platforms** in highly regulated environments, I am excited by the opportunity to help advance Fannie Mae’s mission of expanding access to affordable housing through responsible, purpose-driven innovation.
+
+In my role as a **Principal Artificial Intelligence Engineer at The MITRE Corporation**, I serve as a technical lead for enterprise-scale **LLM and Agentic AI platforms**, operating as governed gateways that enable multiple application teams to safely consume GenAI capabilities. My work closely aligns with Fannie Mae’s GenAI Gateway vision—spanning **LLM orchestration, agent lifecycle management, observability, cost optimization, and secure integration with enterprise data systems**.
+
+I have architected and delivered **cloud-native AI platforms on AWS**, integrating foundational models, scalable APIs, and internal data sources while emphasizing **reliability, performance, and security**. A key focus of my work has been enhancing **end-to-end observability**, including telemetry for usage, latency, and cost, which has enabled proactive issue resolution and meaningful reductions in GenAI operational spend. These efforts mirror Fannie Mae’s emphasis on building resilient, high-quality AI services that provide consistent value to internal and external customers.
+
+Beyond hands-on engineering, I bring a strong record of **technical leadership and mentorship**, guiding hybrid teams of full-time staff and contractors while collaborating closely with product, business, and mission stakeholders. I am particularly passionate about **responsible AI**, having designed platforms with auditability, traceability, and human-in-the-loop controls to ensure trust, compliance, and ethical use of GenAI in complex decision-making environments.
+
+Fannie Mae’s commitment to leveraging technology in service of a broader social mission strongly resonates with me. I would welcome the opportunity to contribute my experience in **GenAI platforms, AWS-based architecture, and enterprise AI enablement** to help Fannie Mae scale its AI capabilities responsibly and effectively.
+
+Thank you for your time and consideration. I look forward to the opportunity to discuss how my background and passion for GenAI platform engineering can support Fannie Mae’s goals.
+
+Sincerely,
+
 Huang Tang
-====
-Great Falls, VA | huangtang@gmail.com | (571) 604-9188
-
-Hiring Committee
-Oracle Corporation
-
-Subject: Application for Director of Applied Science – Healthcare AI
-
-Dear Hiring Committee,
-
-I am excited to apply for the Director of Applied Science – Healthcare AI position at Oracle. With over a decade of leadership in AI, machine learning, and data-driven innovation—particularly in healthcare and complex system domains—I am deeply inspired by Oracle’s vision for Oracle Health & AI (OHAI): to modernize and automate healthcare through state-of-the-art science, engineering, and collaboration.
-
-As Principal Artificial Intelligence Engineer at The MITRE Corporation, I have led end-to-end AI initiatives that bridge research and operations across agencies such as the Defense Health Agency (DHA) and DoD Joint Artificial Intelligence Center (JAIC). As the Chief Engineer, I have developed predictive analytics systems for medical readiness. I am also experienced in time-series anomaly detection under large uncertainties, and retrieval-augmented LLM systems for knowledge-based decision support. These experiences have honed my ability to integrate advanced AI architectures—transformers, graph neural networks, and multi-modal learning frameworks—into mission-critical environments where reliability, transparency, and measurable impact are paramount.
-
-What draws me to Oracle Health & AI is its entrepreneurial mission to build a world-class applied science and engineering center within a global enterprise. I am particularly excited by the opportunity to shape the Healthcare AI roadmap, guiding research toward products that improve clinical workflows, empower practitioners, and unlock value from healthcare data. My approach emphasizes system-level design thinking, ensuring AI solutions are ethically grounded, operationally sound, and strategically aligned with business goals.
-
-Equally important, I am passionate about building and mentoring high-performing teams. Throughout my tenure, I have cultivated cross-disciplinary collaboration between data scientists, Systems's Engineers, and domain experts—fostering an environment that values curiosity, technical rigor, and purpose-driven innovation. At Oracle, I look forward to continuing that tradition: identifying and nurturing emerging talent, promoting diversity of thought, and driving excellence consistent with OHAI’s values.
-
-I am enthusiastic about the opportunity to contribute my experience in applied AI research, system integration, and technical leadership to advance Oracle’s healthcare transformation initiatives. I would welcome the chance to discuss how my background and vision align with the goals of the Oracle Health & AI organization.
-
-Thank you for your time and consideration.
-
-Warm regards,
-
-Huang Tang
-Principal Artificial Intelligence Engineer
-E-Mail: huangtang@gmail.com
-Mobile: (571) 604-9188
