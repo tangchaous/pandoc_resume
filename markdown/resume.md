@@ -1,112 +1,91 @@
-<h1 style="text-align: center;">Resume (Huang Tang) </h1>
+<div style="text-align: center;">
+<h1> Huang Tang </h1>
 
-# Information
+---
 
-- **Job Title**: Principle Artificial Intelligence Engineer
-- **E-Mail**: huangtang@gmail.com
-- **Mobile**: (571) 604-9188
-- **Location**: Great Falls, Virginia
-
-# Expertise
-
-- Artificial Intelligence (AI), Machine Learning (ML), Data Science (DS), Model-Based Systems Engineering (MBSE), Modeling & Simulation (M&S).
-- End-to-end product development, leveraging Systems Thinking, Life-Cycle Management, and operational experiences, of impactful AI/ML solutions to address business challenges in diverse application domains.
-- Business development; innovative researches; product development; operational management.
-- Integrating AI/ML/DS with existing workflow to enhance productivity and service qualities, leveraging best practices in MLOps.
+<h3> Principal Artificial Intelligence Engineer & AI Solution Architect </h3>
+</div>
 
 
-# Artificial Intelligence Expertise
+<div style="text-align: center;">
+Great Falls, Virginia | huangtang@gmail.com  | (571) 604-9188 | <a href="https://www.linkedin.com/in/huang-tang-021ba27a"><img src="src/linkedin.svg" width="20" height=auto style="display: inline-block; margin-left: 10px;"></a> <a href="https://github.com/tangchaous"><img src="src/github-mark.svg" width="20" height=auto style="display: inline-block; margin-left: 10px;"></a>
+</div>
 
 
-- **Machine Learning technologies**: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Graph Neural Networks (GNNs), Transformers, Large Language Models (LLMs), Reinforcement Learning (RL), Causal Learning, , Multi-modal Learning.
-- **Application domains**: Natural Language Processing (NLP), Knowledge Graphs (kG), Computer Vision (CV), Time-series Analysis, Predictive Analytics, Decision Support, Causal Discovery, Portfolio Optimization, Network Operations, Anomaly Detection.
-- **AI/ML frameworks**: PyTorch, TensorFlow, MxNet, ONNX, Ray, MLflow.
-- **LLM technologies**: Retrieval Augmented Generation (RAG), Agentic AI , Model Context Protocol (MCP).
+# Professional Summary
+
+Principal Artificial Intelligence Engineer with over 12 years of experience at The MITRE Corporation, specializing in end-to-end product development and model-based systems engineering. Expert in Generative AI, including Large Language Models (LLMs), Retrieval Augmented Generation (RAG), and Knowledge Graphs. Proven track record of technical leadership in delivering tailored AI/ML solutions to federal sponsors including DISA, DHA, FAA, and DHS. Seeking to leverage deep expertise in Graph Neural Networks, Transformers, and MLOps to drive innovation.
 
 
-# Working Experience
+# Technical Skills
 
-## The MITRE Corporation (Sep 2012 - Present)
+- **Generative AI & NLP**: Large Language Models (LLMs), Retrieval Augmented Generation (RAG), Agentic AI, Transformers, Natural Language Processing (NLP), Question Answering and Recommendation Systems.
+- **Machine Learning on Graphs**: Graph Neural Networks (GNNs), Causal Learning, Reinforcement Learning (RL), Knowledge Graphs.
+- **Frameworks & Tools**: PyTorch, TensorFlow, MxNet, Ray, MLflow, ONNX.
+- **Database Systems**: Weaviate, Pinecone, ActiveLoop, Neo4J, PostgreSQL, MongoDB.
+- **Programming**: Python, Spark, Java, R, JavaScript, Matlab.
+- **Communication Skills**: Drove sponsor engagement across all organizational levels by translating complex technical solutions into clear, actionable insights.
 
-- **Job Title**: Principle Artificial Intelligence Engineer
-- **Agencies served**: Defense Information Systems Agency (DISA), Defense Health Agency (DHA), Federal Aviation Administration (FAA), Internal Revenue Service (IRS), Department of Homeland Security (DHS)
+# Professional Experience
 
-### Large Language Model (LLM) Applications
+## REI Systems | AI Solution Architect | Dec 2025 - Present
 
-- (Tech Lead) Question answering system leveraging Knowledge Graph (KG) indexed Retrieval Augmented Generation (RAG)
-- (Project Lead) Architecture auto-generation from large collection of design documents leveraging Knowledge Graphs
-- (Tech Lead) Aviation Safety Regulation De-conflicting using Large Language Models and Knowledge Graphs
-- (Project Lead) Recommendation system for aviation safety incident analysis
+As an AI Solution Architect of the CTO Office, leading the establishment of the company's AI foundation and providing SME level consulting to AI efforts across the company.
 
+- **Agentic AI & Large Language Models in Deep Research and Active Data Catalog**: 
+  - Designing and implementing agentic AI systems for multimodal data governance and automated querying
+  - Developing LLM-based agents to support FDA entry inspections  
+  - Building LLM agents for supply chain traceability and disruption impact prediction
 
-### Time-Series Analysis and Predictive Analytics
+## The MITRE Corporation | Principal Artificial Intelligence Engineer | Sep 2012 – Jun 2025 
 
-- (Project Lead) Multi-modal multi-variate time-series anomaly detection
-- (Chief Engineer) Disability outcomes prediction (Medical Evaluation Readiness Information Toolset)
-- (Project Lead) Reduce uncertainty in weather forecasting using data assimilation 
-- (Project Lead) Aviation accidents/incidents root cause mining using temporal-spacial transformers 
+Led cross-functional teams to architect and deliver generative AI and natural language solutions for diverse government sponsors.
 
+- **GenAI & LLM Prototyping (RAG/GraphRAG Focus)**:
 
-### Graph-Based Machine Learning Applications
+  - Led the development of a "Document to (Logic) Graph" system, utilizing LLMs to auto-generate architectures from large collections of Systems Engineering design documents.
+  - Served as Tech Leader for a Question Answering System leveraging Knowledge Graph-Indexed RAG for contract management.
+  - Developed a recommendation system for aviation incident root causes using LLMs and Knowledge Graphs.
 
-- Global scale data center network traffic engineering (Tech Lead)
-- National Air Space traffic flow network modeling & spatial reasoning (Tech Lead)
-- Tax fraud detection in large corporation networks (Project Lead)
-- (Project Lead) Complex systems modernization: architecture auto-design and modernization roadmap autodiscovery
+- **NLP & Document Understanding**:
 
+  - Led NLP Topic Modeling efforts for safety report topic mining within the aviation domain.
+  - Participated the "Document Deep Understanding" initiative to perform legal analysis and deconflict aviation safety regulations using LLMs.
 
-### Computer Vision Applications
-- (Tech Lead) Convective weather impacts on pilot behaviors using satellite images
+- **Advanced Machine Learning & Technical Leadership**:
 
+  - Acted as Project Lead for multi-modal, multi-variate time-series anomaly detection and root cause discovery using Temporal Fusion Transformers.
+  - Spearheaded large-scale network traffic engineering projects utilizing Graph Neural Networks (GNN) and Reinforcement Learning (RL).
+  - Developed and served as Chief Engineer for the MERIT (Medical Evaluation Readiness Information Toolset) project, applying predictive time-series analysis to generate 6 to 12 months disability outcome predictions based on Electronic Health Records (EHRs) and service histories.
+  - Led the development of Multi-agent Reinforcement Learning for airport ground traffic management.
+  - Proposed and led the development of data assimilation technology for uncertainty reduction in long horizon predicitions.
+  - Proposed and led the complex systems architecture auto design and modernization paths auto discovery using constraint programming and reinforcement learning. 
 
-### Portfolio Optimization Applications
+## Metavi, LLC Co-Founder | Feb 2011 – Aug 2012 
 
-- (Product Owner) Large organization budget planning and contract evaluation system using Generative AI
+Modeled and visualized aviation traffic control data on top of weather information.
 
+## George Mason University Research Scientist | 2005 – 2010 
 
-### Other Efforts
-
-- (Tech Lead) Airport ground traffic management using Reinforcement Learning
-- DARPA AI/ML seedling challenge design for critical mineral assessment
-
-
-## Metavi, LLC (Feb 2011 - Aug 2012)
-
-- **Job Title**: Co-Founder
-- Collecting, processing, modeling, and animating of aviation traffic control data along with weather information.
-
-
-## George mason University (2005-2010)
-
-- **Job Title**: Research Scientist
-- High fidelity severe weather prediction, meteorological modeling, and development/evaluation/validation of atmospheric transport and dispersion models.
+Conducted researches on Numerical Weather Prediction (NWP) models and atmospheric transport models for Chemical, Biological, Radiological, and Nuclear (CBRN) materials.
 
 
 # Education
 
-- Ph.D. Studies and Research, Aerospace Engineering and Mechanics, University of Minnesota, 1998-2005
-- M.S., Civil Engineering, Human University, 1998
-- B.S., Engineering Mechanics, Hunan University, 1993
+- Ph.D. (All but Dissertation), Aerospace Engineering and Mechanics, University of Minnesota (1998-2005) 
+- M.S., Civil Engineering, Hunan University (1998)
+- B.S., Engineering Mechanics, Hunan University (1993) 
 
+# Selected Publications
 
-# Publications
+- On the Exploration of Temporal Fusion Transformers for Anomaly Detection with Multivariate Aviation Time-series Data. DASC 2024. 
+- Medical Evaluation Readiness Information Toolset (MERIT): Developing a Data-driven Decision Support Tool to Augment Complex Clinical Decisions. Military Medicine (Volume 188) 2023.
+- Adaptable Graph Network for Traffic Analysis Applications. DASC 2022. 
+- Deep Reinforcement Learning Applied to Airport Surface Movement Planning. DASC 2019. 
+- Use Data Assimilation to Reduce Uncertainties in Ensemble Forecasting for Strategic Traffic Flow Management. 18th Conference on Aviation, range, and Aerospace Meteorology. 2016
+- Agile Simulation Based Analysis of Acquisition. Summer Computer Simulation conference 2014.
 
-1. (2024) On the Exploration of Temporal Fusion Transformers for Anomaly Detection with Multivariate Aviation Time-series Data. DASC 2024.
-1. (2022) Adaptable Graph Network for Traffic Analysis Applications. DASC 2022.
-2. (2021) Medical Evaluation Readiness Information Toolset (MERIT): Developing a data-driven support tool to augment complex clinical decisions. 
-3. (2019) Deep Reinforcement Learning Applied to Airport Surface Movement Planning. DASC 2019.
-4. (2016) Use Data Assimilation to Reduce Uncertainties in Ensemble Forecasting for Strategic Traffic Flow Management. 18th Conference on Aviation, range, and Aerospace Meteorology.
-5. (2014) Agile Simulation Based Analysis of Acquisition. Summer Computer Simulation conference 2014.
-6. (2009) Surface Transport in Continuum Mechanics. Mathematics and Mechanics of Solids, 14 (587-598).
-7. (2009) Results Validation of Joint Effects Model Using Seven Field Data Sets. 13th Annual George Mason University Conference on Atmospheric Transport and Dispersion Modeling, Fairfax, Virginia.
-8. (2007) Electrodynamics and Thermodynamics of Material Bodies. Journal of Elasticity, 88 (255-297).
-9. (1997) Nonliear Analysis of Dynamics Stability for Thin-Walled Beams with Open Section in Large Overall Motion. Chinese Journal of Colored Metals 7.
+# CLEARANCE & ELIGIBILITY
 
-
-# Skills
-
-- **Programming languages**: Python, Spark, JavaScript, Java, R, Matlab
-- **AI/ML frameworks**: PyTorch, TensorFlow, MxNet
-- **MLOps frameworks**: Ray, MLflow, Kubeflow
-- **Database Systems**: PostgreSQL, Neo4J, Cassandra, MongoDB, Weaviate, Pinecone, ActiveLoop
-- **Cloud Platforms**: AWS, GCP, Azure
+- U.S Citizen
+- DoD Secret Clearance since 2012
